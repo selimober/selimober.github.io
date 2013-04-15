@@ -4,8 +4,8 @@ title: luca
 ---
 <div class="container">
   <div class="row">
-    <div class="span7"></div>
-    <div class="span5">
+    <div class="span6"></div>
+    <div class="span6">
       <menu>Urunler / Hikayemiz / Tasarim / Iletisim</menu>
     </div>
   </div>
