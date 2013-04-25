@@ -1,0 +1,3 @@
+---
+layout: no_col
+---
