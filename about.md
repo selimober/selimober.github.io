@@ -21,6 +21,10 @@ layout: no_col
 				<div class="span1 text-right"><img src="/assets/img/stackoverflow_icon.png" alt="Stackoverflow Logo"></div>
 				<div class="span5"><a href="http://stackoverflow.com/users/610501/selimober">http://stackoverflow.com/users/610501/selimober</a></div>
 			</div>
+			<div class="row">
+				<div class="span1 text-right"><img src="/assets/img/gmail-icon256.png" alt="Gmail Logo"></div>
+				<div class="span5"><a href="mailto:selim.ober@gmail.com">selim.ober@gmail.com</a></div>
+			</div>
 		</div>
 	</div>
 </div>
