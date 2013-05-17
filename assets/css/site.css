@@ -67,3 +67,12 @@ a.name {
 .about-links .span5 {
 	padding-top: 3px;
 }
+
+.date_sep {
+	padding: 0 10px 0 5px;
+}
+h1 {
+	color: #FF0066;
+	padding: 15px 0 25px;
+	text-shadow: 1px 1px 1px #AAA;
+}
