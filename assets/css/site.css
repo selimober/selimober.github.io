@@ -76,3 +76,7 @@ h1 {
 	padding: 15px 0 25px;
 	text-shadow: 1px 1px 1px #AAA;
 }
+
+.posts li {
+	line-height: 1.8em;
+}
