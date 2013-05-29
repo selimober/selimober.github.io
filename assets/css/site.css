@@ -80,3 +80,13 @@ h1 {
 .posts li {
 	line-height: 1.8em;
 }
+
+.subtitle {
+	position: relative;
+	top: -2em;
+}
+
+.img-book {
+	width: 25px;
+	height: 25px;
+}
