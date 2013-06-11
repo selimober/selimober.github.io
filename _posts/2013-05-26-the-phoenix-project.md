@@ -10,7 +10,7 @@ emotion: straight
 <img src="http://itrevolution.com/wp-content/uploads/2012/04/PPhardcover.png" alt="the phoenix project cover" class="pull-right">
 If you read [The Goal](http://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951) by Eliyahu M. Goldratt, [The Phoenix Project](http://www.amazon.com/The-Phoenix-Project-Business-ebook/dp/B00AZRBLHO) tells the same story, in the same way, but from IT and Operations perspective.
 
-The main character, Bill, is recently promoted (or thrown) into VP of Operations position. The book explains in detail, how, with the help of his mentor Erik, he and his colleagues transform are rotten business into a functional and profitable operation.
+The main character, Bill, is recently promoted (or thrown) into VP of Operations position. The book explains in detail, how, with the help of his mentor Erik, he and his colleagues transform a rotten business into a functional and profitable operation.
 
 I have mixed feelings about this book. When almost a year ago, I read *The Goal*, although I did get the value, I wasn't able to clearly grasp how the mapping between a manufacturing plant and IT should supposed to be. In this perspective, the book shows a clear connection between two notions.
 
