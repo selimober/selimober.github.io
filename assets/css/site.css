@@ -68,13 +68,25 @@ a.name {
 	padding-top: 3px;
 }
 
+.post_date {
+	display: inline-block;
+	width: 100px;
+}
+
 .date_sep {
 	padding: 0 10px 0 5px;
 }
+
 h1 {
 	color: #FF0066;
 	padding: 15px 0 25px;
 	text-shadow: 1px 1px 1px #AAA;
+	font-size: 2em;
+}
+
+h2 {
+	padding: 15px 0 5px 0;
+	font-size: 1.7em;
 }
 
 .posts li {
@@ -89,4 +101,8 @@ h1 {
 .img-book {
 	width: 25px;
 	height: 25px;
+}
+
+.comment.row {
+	padding-top: 2em;
 }
