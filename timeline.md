@@ -17,8 +17,11 @@ subtitle: (i.e. what i'm up to lately)
 					{% if post.categories contains 'book' %}
 						<img src="/assets/img/books-icon.png" alt="book" class="img-book" />
 					{% endif %}	
-					{% if post.emotion contains 'straigh' %}
+					{% if post.emotion contains 'straight' %}
 						<img src="/assets/img/emoticon_straight_face.png" alt="straight face" class="img-book" />
+					{% endif %}
+					{% if post.emotion contains 'smiley' %}
+						<img src="/assets/img/emoticon_smiley_face.png" alt="smiley face" class="img-book" />
 					{% endif %}
 					{% if post.summary %}
 						<br/>{{ post.summary }}
