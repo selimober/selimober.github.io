@@ -9,7 +9,7 @@ thumbnail: http://d202m5krfqbpi5.cloudfront.net/books/1327929440s/43945.jpg
 disqus_identifier: ocean-at-the-and-of-the-lane
 ---
 
-<img src="http://d202m5krfqbpi5.cloudfront.net/books/1327929440l/43945.jpg" alt="book cover" class="pull-right">
+<img src="http://d202m5krfqbpi5.cloudfront.net/books/1351914778l/15783514.jpg" alt="book cover" class="pull-right">
 I started to read it in the morning and couldn't put it down till to end. I might be biased into the fantasy genre but I guess this book has something to offer to even most realistic, down to earth ones among us.
 
 It's a tale of childhood memories of a middle aged man returning to his hometown for his father's funeral. We are invited to a series of events of the unnamed protagonist while he was seven. 
