@@ -17,6 +17,7 @@ It's a tale of childhood memories of a middle aged man returning to his hometown
 I often thought I was watching one of Miyazaki's animations. The characters, never resolved completely, always leaving some to readers' interpretation, ideas, absurd and far from our reality, but presented so coherently that you never feel of the grid.
 
 Suggested strongly to anyone who 
+
 * isn't afraid to read tales at this age
 * tired of technical or heavy materials and wants something of light
 * loved the first one or two Harry Potter's books but got bored after
