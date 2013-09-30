@@ -19,6 +19,10 @@ a:hover {
 	text-decoration: underline;
 }
 
+code {
+	padding: 1px 1px;
+}
+
 .nav-pills>.active>a, .nav-pills>.active>a:hover, .nav-pills>.active>a:focus {
 	color: inherit;
 	background-color: white;
@@ -105,4 +109,9 @@ h2 {
 
 .comment.row {
 	padding-top: 2em;
+}
+
+.disclaimer {
+	font-size: small;
+	font-style: italic;
 }
