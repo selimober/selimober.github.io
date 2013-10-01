@@ -24,6 +24,18 @@ code {
 	max-width: 1170px;
 }
 
+h1 {
+	color: #FF0066;
+	padding: 15px 0 25px;
+	/*text-shadow: 1px 1px 1px #AAA;*/
+	font-size: 2em;
+}
+
+h2 {
+	padding: 15px 0 5px 0;
+	font-size: 1.7em;
+}
+
 /* HEAD */
 .hero-unit {
 	background-image: url('../img/wave.jpg');
@@ -99,89 +111,14 @@ nav .nav-icons li a:hover {
 	-moz-border-radius: 60px;
 	border-radius: 60px;
 }
-/*.nav-pills>.active>a, .nav-pills>.active>a:hover, .nav-pills>.active>a:focus {
-	color: inherit;
-	background-color: white;
-}
 
-.nav>li>a:hover, .nav>li>a:focus {
-	text-decoration: none;
-	background-color: white;
-}*/
-
-a.name {
-	font-size: 32px;
-	color: white;
-}
-
-.top-menu {
-	font-size: 22px;
-	margin-bottom: 60px;
-}
-
-#avatar {
-
-}
-
-#profile {
-	font-family: 'Autour One', cursive;
-	font-size: 18px;
-}
-
-#profile a {
-	color: #FF0066;
-}
-
-#profile ul {
-	margin-top: 40px;
-}
-
-#profile li {
-	margin-bottom: 0.5em;
-}
-
-.about-links .row {
-	margin-bottom: 5px;
-}
-
-.about-links .span5 {
-	padding-top: 3px;
-}
-
-.post_date {
-	display: inline-block;
-	width: 100px;
-}
-
-.date_sep {
-	padding: 0 10px 0 5px;
-}
-
-h1 {
-	color: #FF0066;
-	padding: 15px 0 25px;
-	/*text-shadow: 1px 1px 1px #AAA;*/
-	font-size: 2em;
-}
-
-h2 {
-	padding: 15px 0 5px 0;
-	font-size: 1.7em;
-}
-
-.posts li {
-	line-height: 1.8em;
-}
+/* POSTS */
 
 .subtitle {
 	position: relative;
 	top: -2em;
 }
 
-.img-book {
-	width: 25px;
-	height: 25px;
-}
 
 .comment.row {
 	padding-top: 2em;
