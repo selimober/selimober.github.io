@@ -3,7 +3,7 @@ layout: blog
 category: blog
 title: A survival guide for the Node immigrant
 disqus_identifier: newcomer-guide-node
-published: false
+published: true
 ---
 
 A while ago, I started looking into Node and shortly after, I became dazed by the plethora of frameworks surrounding it. I had been apart of Javascript development for a few years now and although I was well educated on the language, I hit a wall starting Node. Not because the framework was hard. On the contrary. It was very easy and flexible, a kind of flexibility that leaves you aspire for structure. I've experimented with different approaches, directory layouts, tools and I've tried to put them down here to help a newcomer to Node and Javascript development.
