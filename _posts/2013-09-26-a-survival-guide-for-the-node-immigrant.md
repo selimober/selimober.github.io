@@ -200,20 +200,9 @@ Subtree allows you to push only a part of your repository. There are two tricks 
 
 As I tried to stress in the beginning, this guide represents my opinions on how to structure a Node application. But since I just began the adventure, those opinions will probably change along the road. The project accompanying the post is by no means a finished product. While doing it, I stumbled on many other interesting stuff. I will most probably use them in my next project. So I suggest you to take a look to:
 
-* [Yeoman](http://yeoman.io/):
-<br/>
-Its motto is "Modern Workflows for Modern Webapps". By directly copying from their site: "Our workflow is comprised of three tools for improving your productivity and satisfaction when building a web app: yo (the scaffolding tool), grunt (the build tool) and bower (for package management)."
-
-* [Travis](https://travis-ci.org/):
-<br/>
-Nothing specific to Node or Javascript development. A Free Hosted continuous integration platform
-
-* [Q](http://documentup.com/kriskowal/q/):
-<br/>
-Introduces `promises`, among others, a way to flatten the pyramid of async callbacks.
-
-* [Winston](https://github.com/flatiron/winston):
-<br/>
-A multi-transport async logging library for node.js
+* [Yeoman](http://yeoman.io/): Its motto is "Modern Workflows for Modern Webapps". By directly copying from their site: "Our workflow is comprised of three tools for improving your productivity and satisfaction when building a web app: yo (the scaffolding tool), grunt (the build tool) and bower (for package management)."
+* [Travis](https://travis-ci.org/): Nothing specific to Node or Javascript development. A Free Hosted continuous integration platform
+* [Q](http://documentup.com/kriskowal/q/): Introduces `promises`, among others, a way to flatten the pyramid of async callbacks.
+* [Winston](https://github.com/flatiron/winston): A multi-transport async logging library for node.js
 
 Your feedback and suggestions is more than welcomed, so don't hesitate to drop a line.
