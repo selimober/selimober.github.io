@@ -5,6 +5,7 @@ body {
 	color: #333;
 	font-size: 16px;
 	line-height: 22px;
+	background-color: #f3f3f3;
 }
 
 a {
@@ -47,30 +48,39 @@ h2 {
 	padding-left: 0;
 }
 
+.nav a.name {
+	color: white;
+	font-size: 30px;
+}
+
+.nav a.name:hover; {
+	color: white;
+}
+
 /* LEFT MENU */
-nav {
+nav.left {
 	padding-top: 15px;
 	margin-top: 20px;
 }
 
-nav a {
+nav.left a {
 	color: #333;
 }
 
-nav .nav-icons {
+nav.left .nav-icons {
 	margin-bottom: 0;
 	min-height: 0;
 }
 
-nav .nav-icons li {
+nav.left .nav-icons li {
 	float: left;
 }
 
-nav .nav-icons li a {
+nav.left .nav-icons li a {
 	padding-left: 0;
 }
 
-nav .nav-icons li a:hover {
+nav.left .nav-icons li a:hover {
 	background-color: inherit;
 }
 
