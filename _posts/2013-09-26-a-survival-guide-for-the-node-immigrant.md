@@ -6,7 +6,7 @@ disqus_identifier: newcomer-guide-node
 published: true
 ---
 
-A while ago, I started looking into Node and shortly after, I became dazed by the plethora of frameworks surrounding it. I had been apart of Javascript development for a few years now and although I was well educated on the language, I hit a wall starting Node. Not because the framework was hard. On the contrary. It was very easy and flexible, a kind of flexibility that leaves you aspire for structure. I've experimented with different approaches, directory layouts, tools and I've tried to put them down here to help a newcomer to Node and Javascript development.
+A while ago, I started looking into Node and shortly after, I became dazed by the plethora of frameworks surrounding it. I had been apart of Javascript development for a few years now and although I was well educated on the language, I hit a wall starting Node. Not because the environment was hard. On the contrary. It was very easy and flexible, a kind of flexibility that leaves you aspire for structure. I've experimented with different approaches, directory layouts, tools and I've tried to put them down here to help a newcomer to Node and Javascript development.
 
 This article will not teach you Node or any other Javascript techniques. I believe a very specific kind of reader will most benefit from it. One who has a decent knowledge about programming in general, who read the basic concepts and tutorials about Node, and who is ready to try her first project, bigger than Hello World! I won't go into specific implementation details, or inner workings of some specific component. I aim to give an overall view of how a modern development environment using Node might be. Just keep in mind that these are the very first impressions of me on a vast land, and everything is subject to change :)
 
@@ -83,7 +83,7 @@ We'll see more about the `target` and `dist` on following sections but for now, 
 
 ### <a id="arch"></a>Architecture & Dependencies
 
-A very simple architecture of this project is like this:
+A very simple (http) request flow of this project is like this:
 
      -----       ------------------------------------------------       -------
     | Web | --> | App --> Middlewares --> Controller --> Service | --> | Redis |
