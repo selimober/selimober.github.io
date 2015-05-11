@@ -129,7 +129,6 @@ nav.left .nav-icons li a:hover {
 	top: -2em;
 }
 
-
 .comment.row {
 	padding-top: 2em;
 }
@@ -137,4 +136,8 @@ nav.left .nav-icons li a:hover {
 .disclaimer {
 	font-size: small;
 	font-style: italic;
+}
+
+article img.full_width {
+	width: 100%;
 }

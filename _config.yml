@@ -4,8 +4,6 @@ description: "Selim Öber - Home page, blog, timeline and other uninsteresting s
 url: "http://localhost:4000"
 #url: "selimober.com"
 
-paginate: 10
-
 markdown: rdiscount
 permalink: pretty
-pygments: true
+highlighter: pygments
