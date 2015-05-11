@@ -8,7 +8,7 @@ published: true
 
 Recently I found a picture I took 3 years ago. And fond memories of that forced me into writing this post. 
 
-Below is my close friend and colleague, also the solution architect of the long term project we've been working on. It's Saturday, Maybe Sunday. We are in the middle of a _"real Continuous Deployment"_, more on that later. You can see the concentration and determination on my colleague, needed by any _"continuous deployer"_, again more of that later.
+Below is my close friend and colleague, also the solution architect of the long term project we've been working on. It's Saturday, Maybe Sunday. We are in the middle of a _"real Continuous Deployment"_. More on that later. You can see the concentration and determination on my colleague, needed by any _"continuous deployer"_. Again more on that later.
 
 <img class="full_width" src="/assets/img/20150511/mighty_continuous_deployer.jpg" />
 
@@ -16,7 +16,7 @@ Today, more than ever, we witness the convoluted and abused usage of the term Co
 
 __Let me define how I understand Continuous Deployment:__
 
-"Continuous Deployment is the process of following manual, prescribed steps in order to make a software system available to its intended users. It's typically a team effort of heroic scale, take long hours, preferably days where it can not be trusted to automation. It gets the name from the fact that the team is in the continuous state of deploying, thus Continuous Deployment. Sleep deprivation is one the key requirements of the process. _Continuous Deployer_ is basically the ones who deploy".
+"Continuous Deployment is the process of following manual, prescribed steps in order to make a software system available to its intended users. It's typically a team effort of heroic scale, take long hours, preferably days where it can not be trusted to automation. It gets the name from the fact that the team is in the continuous state of deploying, thus Continuous Deployment. Sleep deprivation is one of the key requirements of the process. _Continuous Deployer_ is basically the one who deploy".
 
 In this practice, the longer the steps to be taken, the better. If you refer to the picture above, every line you see on the glass wall is a task that needs to be completed __manually__. On that instance, we started the deployment Friday morning and finished at Sunday evening, just as planned. We deployed continuously, relentlessly, ferociously close to 60 hours. Now this is what I understand of a good ol' continuous deployment. Not these days' single click deploys.
 
@@ -32,7 +32,7 @@ So, __we value__:
 
 2. __Stability over uncertainty__
 
-	Just look one more time to the picture above. What is the feeling you get when you see the huge plan over the wall? Is it not something like "These folks put a huge amount of effort into planning this release, they certainly know what they are doing!"? Since this is not something you can prepare overnight and execute in one click, It gives you the assurance that whatever you've released, it's there to stay. Like at least for 6 months. Now ain't it comforting?
+	Just look one more time to the picture above. What is the feeling you get when you see the huge plan over the wall? Is it not something like "These folks put a huge amount of effort into planning this release, they certainly know what they are doing!"? Since this is not something you can prepare overnight and execute with one click, It gives you the assurance that whatever you've released it's there to stay. Like at least for 6 months. Now ain't it comforting?
 
 3. __Panic zone over comfort zone__
 
@@ -40,8 +40,8 @@ So, __we value__:
 
 4. __Restricted environments over the freedom of running the application in any environment__
 
-	Applications, specifically enterprise applications should be running in a safe, controlled and hard to replicate environments. This has obviously the advantage of job security over those who run and maintain these systems. Today's Continuous Deployment zealots brag about the ability to run whole applications in a laptop through numerous virtualization or containerization solutions. That's nonsense. You should never run an enterprise application on a hardware that costs less then 5k$.
+	Applications, specifically enterprise applications should be running in safe, controlled and hard to replicate environments. This has obviously the advantage of job security over those who run and maintain these systems. Today's Continuous Deployment zealots brag about the ability to run whole applications in a laptop through numerous virtualization or containerization solutions. That's nonsense. You should never run an enterprise application on a hardware that costs less then 5k$.
 
-Now, I must admit my company and my colleagues are the first ones to blame. Martin Fowler himself committed to [this sin](http://www.martinfowler.com/bliki/ContinuousDelivery.html). We let the term become polluted and to degenerate to what it means today. Rest assured though, I'm fighting internally for that we should stop this blasphemy and to publish my definition of Continuous Deployment on the next [Technology Radar](http://www.thoughtworks.com/radar). Some colleagues hint that this might cost my carrier but I'm determined to do what is right. 
+Now, I must admit my company and my colleagues are the first ones to blame. Martin Fowler himself committed to [this sin](http://www.martinfowler.com/bliki/ContinuousDelivery.html). We let the term become polluted and degenerate to what it means today. Rest assured though, I'm fighting internally for that we should stop this blasphemy and to publish my definition of Continuous Deployment on the next [Technology Radar](http://www.thoughtworks.com/radar). Some colleagues hint that this might cost my carrier but I'm determined to do what is right. 
 
 I'll keep you updated about my progress. Till then, don't let your manual skills dominated by automation.
