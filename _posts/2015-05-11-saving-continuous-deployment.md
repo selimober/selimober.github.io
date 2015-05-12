@@ -32,7 +32,7 @@ So, __we value__:
 
 2. __Stability over uncertainty__
 
-	Just look one more time to the picture above. What is the feeling you get when you see the huge plan over the wall? Is it not something like "These folks put a huge amount of effort into planning this release, they certainly know what they are doing!"? Since this is not something you can prepare overnight and execute with one click, It gives you the assurance that whatever you've released it's there to stay. Like at least for 6 months. Now ain't it comforting?
+	Just look one more time to the picture above. What is the feeling you get when you see the huge plan over the wall? Is it not something like "These folks put a huge amount of effort into planning this release, they certainly know what they are doing!"? Since this is not something you can prepare overnight and execute with one click, It gives you the assurance that whatever you've released it's there to stay. Like at least for 6 months. Now ain't it comforting? Compare this with instability and uncertainty of everyday, even multiple times in a day automatic deployments. You never know what's on production. Worse, they try to sell this as flexibility. I call it lack of structure.
 
 3. __Panic zone over comfort zone__
 
